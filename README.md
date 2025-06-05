@@ -7,3 +7,4 @@ https://github.com/heegarthur/ivosort/blob/main/ivosort.py
 
 normal algorithm:
 
+https://github.com/heegarthur/ivosort/blob/main/visual.py
